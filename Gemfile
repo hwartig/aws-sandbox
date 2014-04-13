@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'pry'
 gem 'aws-sdk'
 gem 'dotenv'
+gem 'pry'
+gem 'uuidtools'
